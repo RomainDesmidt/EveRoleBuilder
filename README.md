@@ -6,7 +6,7 @@ prolly can do the same for corp/ alliance?
 
 -parse from xml
 
--export as xml, probably work as json
+-export as xml, probably work as json (to build a to train list with existing limitation)
 
 -devise
 
