@@ -11,3 +11,18 @@ prolly can do the same for corp/ alliance?
 -devise
 
 
+TARGET:
+Eve Player with a few toons
+Corporation or FC
+
+PAIN:
+Cant know who can do what easily, most often than not tools make you able to see what skills
+what character have but then you have to go one by one which is kinda annoying
+
+SOLUTION:
+have your character showing their roles be it custom roles (created by users) or existing one (created with the app)
+all character visible at once
+
+ANGLE:
+Unlike EveMON which is used for a person on his own characters, the tools should be able to make use of player group, corp, alliance, coalition
+Need to show at once who can do what
